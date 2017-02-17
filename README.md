@@ -3,7 +3,7 @@
 This repository contains two files containing R-scripts:
 
 1. `Stochastic_bet-hedging.r`
-2. `Compiling_figure.r`
+2. `Compiling_figures.r`
 
 It accompanies the manuscript:
 
@@ -14,5 +14,5 @@ More information can be obtained from the manuscript, which can be requested fro
 ## Stochastic_bet-hedging.r
 This fully annotated script includes all the functions to simulate the population demographics under a suite of hydological regimes.
 
-## Compiling_figure.r
+## Compiling_figures.r
 This fully annotated script includes all the functions to plot how changes in demographic rates affect the population growth rates and extinction probability across a range of hydrological regimes. This script also includes the demographic rates measured during the laboratory climate change experiment.
